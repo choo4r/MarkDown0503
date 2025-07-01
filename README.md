@@ -1,3 +1,6 @@
+#양양양
+후후후
+
 #재목
 ## 소재목
 ### 더 작은 제목
@@ -13,7 +16,7 @@
 3. 후후
 
 - [x] 히히
-- [] 하하
-- [] 호호
+- [ ] 하하
+- [ ] 호호
 
 ![image](https://github.com/user-attachments/assets/cea19bd7-485a-4fca-bcfa-90e812a2ff19)
